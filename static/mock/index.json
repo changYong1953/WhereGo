@@ -1,0 +1,94 @@
+{
+		"ret": true,
+		"data": {
+			"swiperList": [{
+        "id": "01",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/80dbfcab7fbac0a2395c65996c082616.jpg_890x330_09b0d8c7.jpg"
+      }, {
+        "id": "02",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/ca4749bb92e93e2e5bf960c704b095d1.jpg_890x330_d9b4e8f3.jpg"
+      }, {
+        "id": "03",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/245dc5b9a43e4d118084e6d78d7e80ee.jpg_890x330_2b7a1cf9.jpg"
+			}],
+			"itemList": [{
+        "id": "01",
+        "desc": "热门景点/黄山日出/泰山日落",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png"
+      }, {
+        "id": "02",
+        "desc": "水上乐园",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png"
+      }, {
+        "id": "03",
+        "desc": "欢乐游玩",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/67370daeaa1a8ac24a6c7930f74fee0c.png"
+      }, {
+        "id": "04",
+        "desc": "海洋公园",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png"
+      }, {
+        "id": "05",
+        "desc": "亲情娱乐",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b71c1387a921ccf9c6edc7e8def3da90.png"
+      }, {
+        "id": "06",
+        "desc": "海上冲浪",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/3a0879f224e0aca97843bff78cabac3a.png"
+      }, {
+        "id": "07",
+        "desc": "夏日城堡",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png"
+      }, {
+        "id": "08",
+        "desc": "美丽山水",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/f04285731d7121da1b9028e2bf431695.png"
+      }, {
+        "id": "09",
+        "desc": "快乐出行",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/f04285731d7121da1b9028e2bf431695.png"
+			}],
+			"recommendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1905/e6/e683c8cf5e97ce03a3.img.jpg_200x200_4769276c.jpg",
+        "title": "世界之窗",
+        "desc": "世界之窗 国际啤酒节"
+      }, {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/64/34362835b4a219af8b36803d31a6380f.water.jpg_200x200_bc5c0452.jpg",
+        "title": "小梅沙",
+        "desc": "深圳小梅沙 海洋世界"
+      }, {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_200x200_1c15c8f5.jpg",
+        "title": "欢乐谷",
+        "desc": "深圳欢乐谷"
+      }, {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1907/7a/7a027c49bb8f730aa3.water.jpg_200x200_0051bdbf.jpg",
+        "title": "华侨城",
+        "desc": "东部华侨城 大峡谷"
+			}],
+			"weekendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1507/d9/2ddc7652fdba16.jpg_r_640x214_5e62f1a3.jpg",
+        "title": "深圳周边游",
+        "desc": "远离城市喧嚣，开启周边新假期"
+      }, {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边游",
+        "desc": "享受生活，享受温泉，放松身心，顺便还可以'叫鸡'.人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      }, {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "欢乐长隆",
+        "desc": "欢乐长隆，长隆海洋公园，享受周末，度假休闲好去处"
+      }, {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+        "title": "深圳必打卡",
+        "desc": "来到深圳，这里是必打卡之处，您轻松休闲的好去处"
+      }]
+		}
+}

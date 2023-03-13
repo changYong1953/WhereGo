@@ -1,0 +1,80 @@
+{
+	"ret": true,
+	"data": {
+		"sightName": "深圳欢乐谷(AAAAA景区)",
+		"bannerImg": "http://img1.qunarzz.com/sight/p0/1907/8d/8da769b8a045ec98a3.img.jpg_600x330_43ca5751.jpg",
+		"gallaryImgs": 
+			["http://img1.qunarzz.com/sight/p0/1907/b5/b50389ea88e2df42a3.water.jpg_r_800x800_05f5f385.jpg",
+			"http://img1.qunarzz.com/sight/p0/1907/25/257c315f17d621e2a3.water.jpg_r_800x800_106e5992.jpg",
+			"http://img1.qunarzz.com/sight/p0/1907/25/257c315f17d621e2a3.water.jpg_350x240_57ac27bb.jpg",
+			"http://img1.qunarzz.com/sight/p0/1604/80/80941a74399235d790.water.jpg_350x240_e9bbc842.jpg",
+			"http://img1.qunarzz.com/sight/p0/1604/80/80941a74399235d790.water.jpg_350x240_e9bbc842.jpg",
+			"http://img1.qunarzz.com/sight/p0/1412/b8/4323b9fbbd2d7f88df7a55882a9b03b7.water.jpg_350x240_a6c75fe1.jpg",
+			"http://img1.qunarzz.com/sight/p0/1412/45/84c84189db3e8951465ae239cfc0b28e.water.jpg_350x240_ca27357b.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/98/989c741b70a655b8.water.jpg_350x240_542b1b3f.jpg",
+			"http://img1.qunarzz.com/sight/p0/1807/33/3359ac3a4bdd2b30a3.water.jpg_350x240_4ec28049.jpg",
+			"http://img1.qunarzz.com/sight/p0/1412/42/ab493fd01bc3d2b2b0874fe0b0ae5540.water.jpg_350x240_7f734c82.jpg",
+			"http://img1.qunarzz.com/sight/p0/1812/a7/a7783a2362ed222ba3.water.jpg_350x240_385b7ebc.jpg",
+			"http://img1.qunarzz.com/sight/p0/1412/4b/632fe62f622b9b112cdf9f3b80ce8f78.water.jpg_350x240_411eebed.jpg",
+			"http://img1.qunarzz.com/sight/p0/1812/91/91ba4a66b4326a8fa3.water.jpg_350x240_d6b5c0e3.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/e7/e7b8f9817f197d28.water.jpg_350x240_b936e265.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/99/99c2465a38025482.water.jpg_350x240_333eb475.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/17/173d2b9172b32d4f.water.jpg_350x240_8f2c3747.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/96/96334094d01ce355.water.jpg_350x240_25afaee3.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/1a/1a0f6ad2e868290.water.jpg_350x240_7b8f8099.jpg",
+			"http://img1.qunarzz.com/sight/p0/1501/16/1677ff94eac766d2.water.jpg_350x240_04cd8c76.jpg",
+			"http://img1.qunarzz.com/sight/p0/1412/92/0fbd82ba7ca7304d3c9fbe3b6de6078b.water.jpg_350x240_2a06190e.jpg",
+			"http://img1.qunarzz.com/sight/p0/1507/5a/92024be14740e359f10de1006f92bf3a.water.jpg_350x240_3fcfdc51.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/26/26c00dce3db1b664.water.jpg_350x240_3f7e1856.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/f3/f386a6b98ce9f749.water.jpg_350x240_551b6dfb.jpg",
+			"http://img1.qunarzz.com/sight/p0/1412/40/deb8fc27db02927da78f34ae94fd2884.water.jpg_350x240_d364eb01.jpg",
+			"http://img1.qunarzz.com/sight/p0/201301/16/b6f132889d70b7ac93835fbb.jpg_350x240_4c8ba2ef.jpg",
+			"http://img1.qunarzz.com/sight/p0/1507/c6/a1c1b8e06245bde0688dfee7f191bafb.water.jpg_350x240_82b21a7a.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/41/411a645dd3c39d9a.water.jpg_350x240_c01581fd.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/c8/c8462724875d7ded.water.jpg_350x240_0d523c11.jpg",
+			"http://img1.qunarzz.com/sight/201403/07/6ffcef84a5bca8b0c8d65eac.jpg_350x240_d4acb5a9.jpg",
+			"http://img1.qunarzz.com/sight/p0/201310/28/d8d53a76ddb582b6c8d65eac.jpg_350x240_351d5fb2.jpg",
+			"http://img1.qunarzz.com/sight/p0/1507/13/e2da7b86d65f6e2f8646eb1df9bf07a2.water.jpg_350x240_04aa9d83.jpg",
+			"http://img1.qunarzz.com/sight/p0/1507/8b/9897d4944986a83fc28c5617ee7a093c.water.jpg_350x240_7d936a7d.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/e6/e660e6c43504bbcb.water.jpg_350x240_1b444f7c.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/a5/a514708a0cfe6b7b.water.jpg_350x240_eafe4b53.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/d8/d83be691e287456.water.jpg_350x240_0382df6c.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/53/530decd8a5285996.water.jpg_350x240_7b1cfd2f.jpg",
+			"http://img1.qunarzz.com/sight/p0/201305/14/a8bbd665f5f4e7bdc8d65eac.jpg_350x240_cb733090.jpg",
+			"http://img1.qunarzz.com/sight/p0/1507/5a/92024be14740e359f10de1006f92bf3a.water.jpg_350x240_3fcfdc51.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/7e/7e6d2c8310b1315f.water.jpg_350x240_48b68dec.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/79/798c733cc7cf78cf.water.jpg_350x240_a176eac7.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/4b/4b24b3156af5350e.water.jpg_350x240_67f021a2.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/f2/f226f4cef39d59fc.water.jpg_350x240_5ba4934a.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/c6/c67308d743656b05.water.jpg_350x240_613fcb18.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/ec/ec4fce97d58c2cda.water.jpg_350x240_c59d7266.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/4c/4ce2df9d706627f4.water.jpg_350x240_6e1b1253.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/9d/9d6719d3bafea34e.water.jpg_350x240_75a40cad.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/64/6409aa1dce544e5b.water.jpg_350x240_59288d5d.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/dd/dd056f1c446445e6.water.jpg_350x240_025b09fc.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/88/8814a6fb65d21316.water.jpg_350x240_d9da9cf9.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/38/383d02cc6e2cdb89.water.jpg_350x240_aef7e179.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/9f/9f3e207884690f4b.water.jpg_350x240_6384a3c8.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/cd/cd023b889435b33.water.jpg_350x240_216c6550.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/8a/8a7e5224749d88a2.water.jpg_350x240_865063a9.jpg",
+			"http://img1.qunarzz.com/sight/p0/1503/5f/5f71d6a637e43a72.water.jpg_350x240_2ad1c2a4.jpg",
+			"http://img1.qunarzz.com/sight/p0/201301/16/141f4a813b0eb80a93835fbb.jpg_350x240_bf025808.jpg"],
+		"categoryList": [{
+			"title": "成人票",
+			"children": [{
+				"title": "成人三馆联票",
+				"children": [{
+					"title": "成人三馆联票 - 深圳连锁店"
+				}]
+			}, {
+				"title": "成人五馆联票"
+			}]
+		}, {
+			"title": "学生票"
+		}, {
+			"title": "儿童票"
+		}, {
+			"title": "特惠票"
+		}]
+	}
+}
